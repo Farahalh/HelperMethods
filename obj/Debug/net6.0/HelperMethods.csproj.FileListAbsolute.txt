@@ -1,0 +1,14 @@
+C:\Users\Farah\OneDrive\Skrivbord\HelperMethods\obj\Debug\net6.0\HelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farah\OneDrive\Skrivbord\HelperMethods\obj\Debug\net6.0\HelperMethods.AssemblyInfoInputs.cache
+C:\Users\Farah\OneDrive\Skrivbord\HelperMethods\obj\Debug\net6.0\HelperMethods.AssemblyInfo.cs
+C:\Users\Farah\OneDrive\Skrivbord\HelperMethods\obj\Debug\net6.0\HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\Farah\OneDrive\Skrivbord\HelperMethods\bin\Debug\net6.0\HelperMethods.exe
+C:\Users\Farah\OneDrive\Skrivbord\HelperMethods\bin\Debug\net6.0\HelperMethods.deps.json
+C:\Users\Farah\OneDrive\Skrivbord\HelperMethods\bin\Debug\net6.0\HelperMethods.runtimeconfig.json
+C:\Users\Farah\OneDrive\Skrivbord\HelperMethods\bin\Debug\net6.0\HelperMethods.dll
+C:\Users\Farah\OneDrive\Skrivbord\HelperMethods\bin\Debug\net6.0\HelperMethods.pdb
+C:\Users\Farah\OneDrive\Skrivbord\HelperMethods\obj\Debug\net6.0\HelperMethods.dll
+C:\Users\Farah\OneDrive\Skrivbord\HelperMethods\obj\Debug\net6.0\refint\HelperMethods.dll
+C:\Users\Farah\OneDrive\Skrivbord\HelperMethods\obj\Debug\net6.0\HelperMethods.pdb
+C:\Users\Farah\OneDrive\Skrivbord\HelperMethods\obj\Debug\net6.0\HelperMethods.genruntimeconfig.cache
+C:\Users\Farah\OneDrive\Skrivbord\HelperMethods\obj\Debug\net6.0\ref\HelperMethods.dll
